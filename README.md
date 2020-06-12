@@ -1,6 +1,13 @@
 # Docker Alpine
 
-#### 功能
+## 版本
+
+* [3.12](https://github.com/seffeng/docker-alpine/tree/3.12) , [latest](https://github.com/seffeng/docker-alpine)
+
+* [3.11](https://github.com/seffeng/docker-alpine/tree/3.11)
+
+
+## 功能
 
 ```shell
 1、修改源为 阿里云源；
@@ -8,7 +15,7 @@
 2、设置时区为 Asia/Shanghai。
 ```
 
-#### 常用命令：
+## 常用命令：
 
 ```sh
 # 拉取镜像
@@ -37,9 +44,18 @@ $ docker images
 
 # 删除镜像
 $ docker rmi [IMAGE ID]
+
+# 构建镜像
+$ docker build -t [IMAGE NAME] .
+
+# 复制本机文件到容器
+$ docker cp /root/file [CONTAINER ID]:/root/file
+
+# 复制容器文件到本机
+$ docker cp [CONTAINER ID]:/root/file /root/file
 ```
 
-#### 网络
+## 网络
 
 ```shell
 # 查看网络
