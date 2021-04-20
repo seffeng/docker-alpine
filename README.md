@@ -2,8 +2,8 @@
 
 ## 版本
 
-* [3.12](https://github.com/seffeng/docker-alpine/tree/3.12) , [latest](https://github.com/seffeng/docker-alpine)
-
+* [3.13](https://github.com/seffeng/docker-alpine) , [latest](https://github.com/seffeng/docker-alpine)
+* [3.12](https://github.com/seffeng/docker-alpine/tree/3.12) 
 * [3.11](https://github.com/seffeng/docker-alpine/tree/3.11)
 
 
