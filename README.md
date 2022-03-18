@@ -2,15 +2,12 @@
 
 ## 版本
 
-* [3.15](https://github.com/seffeng/docker-alpine) , [latest](https://github.com/seffeng/docker-alpine)
-* [3.14](https://github.com/seffeng/docker-alpine/tree/3.14)
-* [3.13](https://github.com/seffeng/docker-alpine/tree/3.13)
-* [3.12](https://github.com/seffeng/docker-alpine/tree/3.12)
-* [3.11](https://github.com/seffeng/docker-alpine/tree/3.11)
+* [3.15 , 3.15.1 , latest](https://github.com/seffeng/docker-alpine)
+* [3.14 , 3.14.4](https://github.com/seffeng/docker-alpine/tree/3.14)
+* [3.13 , 3.13.8](https://github.com/seffeng/docker-alpine/tree/3.13)
+* [3.12 , 3.12.10](https://github.com/seffeng/docker-alpine/tree/3.12)
+* [3.11 , 3.11.13](https://github.com/seffeng/docker-alpine/tree/3.11)
 
-```shell
-alpine: ^3.12
-```
 
 ## 功能
 
