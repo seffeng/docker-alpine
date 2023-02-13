@@ -1,6 +1,6 @@
 FROM alpine:3.14
 
-MAINTAINER seffeng "seffeng@sina.cn"
+LABEL author="zxf <seffeng@live.com>"
 
 RUN \
  sed -i 's/dl-cdn.alpinelinux.org/mirrors.ustc.edu.cn/g' /etc/apk/repositories &&\
