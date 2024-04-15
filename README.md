@@ -58,6 +58,21 @@ $ docker cp /root/file [CONTAINER ID]:/root/file
 
 # 复制容器文件到本机
 $ docker cp [CONTAINER ID]:/root/file /root/file
+
+# 镜像导出为镜像文件，文件名：xxx.tar
+$ docker save -o xxx.tar [CONTAINER ID | NAMES]
+
+# 镜像导入，文件转为镜像
+$ docker load -i xxx.tar
+
+# 容器导出为镜像文件，文件名：xxx.tar
+$ docker export -o xxx.tar [CONTAINER ID | NAMES]
+
+# 容器导出的镜像文件转为镜像
+$ docker import xxx.tar [REPOSITORY[:TAG]]
+
+# 容器打包成镜像
+$ docker commit [CONTAINER ID | NAMES] [REPOSITORY[:TAG]]
 ```
 
 ## 网络
