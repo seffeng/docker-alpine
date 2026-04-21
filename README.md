@@ -1,10 +1,10 @@
 # Docker Alpine
 
 ## 版本
-* [3.23 , 3.23.3 , latest](https://github.com/seffeng/docker-alpine/tree/3.23)
-* [3.22 , 3.22.3](https://github.com/seffeng/docker-alpine/tree/3.22)
-* [3.21 , 3.21.6](https://github.com/seffeng/docker-alpine/tree/3.21)
-* [3.20 , 3.20.9](https://github.com/seffeng/docker-alpine/tree/3.20)
+* [3.23 , 3.23.4 , latest](https://github.com/seffeng/docker-alpine/tree/3.23)
+* [3.22 , 3.22.4](https://github.com/seffeng/docker-alpine/tree/3.22)
+* [3.21 , 3.21.7](https://github.com/seffeng/docker-alpine/tree/3.21)
+* [3.20 , 3.20.10](https://github.com/seffeng/docker-alpine/tree/3.20)
 * [3.19 , 3.19.9](https://github.com/seffeng/docker-alpine/tree/3.19)
 * [3.18 , 3.18.12](https://github.com/seffeng/docker-alpine/tree/3.18)
 * [3.17 , 3.17.10](https://github.com/seffeng/docker-alpine/tree/3.17)
