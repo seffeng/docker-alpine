@@ -2,7 +2,7 @@
 
 ## 版本
 
-* [3.23](https://github.com/seffeng/docker-alpine/tree/3.23)
+* [3.24](https://github.com/seffeng/docker-alpine/tree/3.24)
 
 ## 功能
 
